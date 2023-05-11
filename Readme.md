@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Мария Двойнишникова](https://up.htmlacademy.ru/ecmascript/20/user/899129).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
